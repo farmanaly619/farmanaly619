@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Farman Ali.
+- 🌱 I’m currently learning Data Science and Ai.
